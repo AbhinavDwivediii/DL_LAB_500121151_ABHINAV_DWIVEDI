@@ -28,45 +28,78 @@ Each experiment is designed to build practical understanding through implementat
 
 📦 Deep-Learning-Experiments
 
+
 ┣ 📂 Exp_1
+
 ┃ ┣ 📓 experiment.ipynb
+
 ┃ ┣ 📂 datasets
+
 ┃ ┗ 📂 images
+
 
 ┣ 📂 Exp_2
+
 ┃ ┣ 📓 experiment.ipynb
+
 ┃ ┣ 📂 datasets
+
 ┃ ┗ 📂 images
+
 
 ┣ 📂 Exp_3
+
 ┃ ┣ 📓 experiment.ipynb
+
 ┃ ┣ 📂 datasets
+
 ┃ ┗ 📂 images
+
 
 ┣ 📂 Exp_4
+
 ┃ ┣ 📓 experiment.ipynb
+
 ┃ ┣ 📂 datasets
+
 ┃ ┗ 📂 images
+
 
 ┣ 📂 Exp_5
+
 ┃ ┣ 📓 experiment.ipynb
+
 ┃ ┣ 📂 datasets
+
 ┃ ┗ 📂 images
+
 
 ┣ 📂 Exp_6
+
 ┃ ┣ 📓 experiment.ipynb
+
 ┃ ┣ 📂 datasets
+
 ┃ ┗ 📂 images
+
 
 ┣ 📂 Exp_7
+
 ┃ ┣ 📓 experiment.ipynb
+
 ┃ ┣ 📂 datasets
+
 ┃ ┗ 📂 images
 
+
 ┣ 📂 Exp_8
+
 ┃ ┣ 📓 experiment.ipynb
+
 ┃ ┣ 📂 datasets
+
 ┃ ┗ 📂 images
+
 ┗ 📄 README.md
 
 
