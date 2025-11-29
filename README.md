@@ -141,293 +141,108 @@
 
 
 <div align="center">
+  <h1>Deep Learning Lab</h1>
+  <p>A comprehensive collection of Deep Learning experiments from basics to advanced applications.</p>
+</div>
 
 <style>
 .card-grid {
   display: flex;
   flex-wrap: wrap;
-  justify-content: center;
   gap: 20px;
-  font-family: Arial, sans-serif;
 }
-
 .card {
-  background: #111820;
-  color: #e6e6e6;
-  width: 420px;
+  background: #111;
+  color: white;
   padding: 20px;
   border-radius: 12px;
-  border: 1px solid #2a2f38;
-  box-shadow: 0px 0px 10px #00000066;
+  width: 300px;
+  border: 1px solid #333;
 }
-
-.card h2 {
-  margin-top: 0;
-  font-size: 22px;
-  color: #78a6ff;
-}
-
 .card h3 {
-  font-size: 17px;
-  margin-bottom: 10px;
-  color: #a8c2ff;
+  margin-top: 0;
 }
-
-.topics {
-  background: #0d141b;
-  border: 1px solid #232a33;
-  padding: 12px;
-  border-radius: 8px;
-  margin-bottom: 15px;
-  font-family: monospace;
-  font-size: 14px;
-  white-space: pre-line;
-}
-
-.btn {
+.button {
   display: inline-block;
+  margin-top: 10px;
   padding: 8px 14px;
-  margin-right: 8px;
   border-radius: 6px;
-  font-size: 13px;
-  font-weight: bold;
+  font-size: 14px;
   text-decoration: none;
+  font-weight: 600;
 }
-
 .btn-blue {
-  background: #2d6cdf;
+  background: #005eff;
   color: white;
 }
-
-.btn-yellow {
-  background: #ffcc33;
-  color: #000;
+.btn-green {
+  background: #00b341;
+  color: white;
 }
-
-.btn:hover { opacity: 0.85; }
 </style>
 
 <div class="card-grid">
 
-<!--------------------------------------------
-EXPERIMENT 1
---------------------------------------------->
-<div class="card">
-  <h2>Experiment 1</h2>
-  <h3>Comparative Study of Deep Learning Frameworks</h3>
-
-  <div class="topics">
-Topics:
-├── TensorFlow Implementation
-├── Keras Implementation
-├── PyTorch Implementation
-└── Framework Comparison
+  <!-- Experiment 1 -->
+  <div class="card">
+    <h3>Experiment 1: Comparative Study of Deep Learning Frameworks</h3>
+    <a class="button btn-blue" href="https://github.com/AbhinavDwivediii/DL_LAB_500121151_ABHINAV_DWIVEDI/blob/main/DL_Exp1.ipynb">VIEW EXPERIMENT</a>
   </div>
 
-  <a class="btn btn-blue" href="">VIEW EXPERIMENT</a>
-</div>
-
-<!--------------------------------------------
-EXPERIMENT 2
---------------------------------------------->
-<div class="card">
-  <h2>Experiment 2</h2>
-  <h3>Neural Networks from Scratch</h3>
-
-  <div class="topics">
-Topics:
-├── Single Neuron (AND Gate)
-├── Feedforward Network (XOR)
-├── MLP with Backpropagation
-└── Activation & Loss Functions
+  <!-- Experiment 2 -->
+  <div class="card">
+    <h3>Experiment 2: Building Neural Networks from Scratch</h3>
+    <a class="button btn-blue" href="https://github.com/AbhinavDwivediii/DL_LAB_500121151_ABHINAV_DWIVEDI/blob/main/DL_Exp2.ipynb">VIEW EXPERIMENT</a>
+    <a class="button btn-green" href="https://drive.google.com/drive/folders/1HJFzCnNx4SdC9UR_LKa7-P2xKUz8Fp06?usp=drive_link">DATASET</a>
   </div>
 
-  <a class="btn btn-blue" href="">VIEW EXPERIMENT</a>
-  <a class="btn btn-yellow" href="https://www.kaggle.com/datasets/sonypriyanka/and-gate">DATASET</a>
-</div>
-
-<!--------------------------------------------
-EXPERIMENT 3
---------------------------------------------->
-<div class="card">
-  <h2>Experiment 3</h2>
-  <h3>Classification with DL Frameworks</h3>
-
-  <div class="topics">
-Topics:
-├── MNIST / Fashion-MNIST
-├── Preprocessing
-├── Model Training
-└── Evaluation
+  <!-- Experiment 3 -->
+  <div class="card">
+    <h3>Experiment 3: Classification with DL Frameworks</h3>
+    <a class="button btn-blue" href="https://github.com/AbhinavDwivediii/DL_LAB_500121151_ABHINAV_DWIVEDI/blob/main/DL_Exp3.ipynb">VIEW EXPERIMENT</a>
+    <a class="button btn-green" href="https://drive.google.com/drive/folders/118MaTGKLMyaXpPgBYVWlM-KWyYa0DA_b?usp=drive_link">DATASET</a>
   </div>
 
-  <a class="btn btn-blue" href="">VIEW EXPERIMENT</a>
-  <a class="btn btn-yellow" href="https://www.kaggle.com/datasets/oddrationale/mnist-in-csv">DATASET</a>
-</div>
-
-<!--------------------------------------------
-EXPERIMENT 4
---------------------------------------------->
-<div class="card">
-  <h2>Experiment 4</h2>
-  <h3>Transfer Learning for Image Classification</h3>
-
-  <div class="topics">
-Topics:
-├── Pretrained Models
-├── Feature Extraction
-├── Fine-Tuning
-└── Cats vs Dogs / CIFAR-10
+  <!-- Experiment 4 -->
+  <div class="card">
+    <h3>Experiment 4: Transfer Learning for Image Classification</h3>
+    <a class="button btn-blue" href="https://github.com/AbhinavDwivediii/DL_LAB_500121151_ABHINAV_DWIVEDI/blob/main/DL_Exp4.ipynb">VIEW EXPERIMENT</a>
+    <a class="button btn-green" href="https://drive.google.com/drive/folders/1nuBfkQNFDtnJE9527N61rzPJR_hPSxAL?usp=drive_link">DATASET</a>
   </div>
 
-  <a class="btn btn-blue" href="">VIEW EXPERIMENT</a>
-  <a class="btn btn-yellow" href="https://www.kaggle.com/datasets/salader/dogs-vs-cats">DATASET</a>
-</div>
-
-<!--------------------------------------------
-EXPERIMENT 5
---------------------------------------------->
-<div class="card">
-  <h2>Experiment 5</h2>
-  <h3>Training Deep Networks</h3>
-
-  <div class="topics">
-Topics:
-├── Activation Functions
-├── Loss Functions
-├── Backpropagation
-└── Optimizer Comparison
+  <!-- Experiment 5 -->
+  <div class="card">
+    <h3>Experiment 5: Training Deep Networks (Loss, Backprop & Optimization)</h3>
+    <a class="button btn-blue" href="https://github.com/AbhinavDwivediii/DL_LAB_500121151_ABHINAV_DWIVEDI/blob/main/DL_Exp5.ipynb">VIEW EXPERIMENT</a>
+    <a class="button btn-green" href="https://drive.google.com/drive/folders/1qqk3nwOxXuC7JZLGj-FkJHQOUcg3JhEn?usp=drive_link">DATASET</a>
   </div>
 
-  <a class="btn btn-blue" href="">VIEW EXPERIMENT</a>
-</div>
-
-<!--------------------------------------------
-EXPERIMENT 6
---------------------------------------------->
-<div class="card">
-  <h2>Experiment 6</h2>
-  <h3>Implementation of MLP</h3>
-
-  <div class="topics">
-Dataset: Iris  
+  <!-- Experiment 6 -->
+  <div class="card">
+    <h3>Experiment 6: Implementation of MLP</h3>
+    <a class="button btn-blue" href="https://github.com/AbhinavDwivediii/DL_LAB_500121151_ABHINAV_DWIVEDI/blob/main/DL_Exp6.ipynb">VIEW EXPERIMENT</a>
+    <a class="button btn-green" href="https://drive.google.com/drive/folders/1wPi0ayzv74nrS3TQgt9ZD37-ByxF8kfz?usp=drive_link">DATASET</a>
   </div>
 
-  <a class="btn btn-blue" href="">VIEW EXPERIMENT</a>
-  <a class="btn btn-yellow" href="https://www.kaggle.com/datasets/uciml/iris">DATASET</a>
-</div>
-
-<!--------------------------------------------
-EXPERIMENT 7
---------------------------------------------->
-<div class="card">
-  <h2>Experiment 7</h2>
-  <h3>Implementing CNN</h3>
-
-  <div class="topics">
-Topics:
-├── Convolution
-├── Pooling
-└── Feature Visualization
+  <!-- Experiment 7 -->
+  <div class="card">
+    <h3>Experiment 7: Implementing CNN – Convolution, Pooling, Feature Maps</h3>
+    <a class="button btn-blue" href="https://github.com/AbhinavDwivediii/DL_LAB_500121151_ABHINAV_DWIVEDI/blob/main/DL_Exp7.ipynb">VIEW EXPERIMENT</a>
+    <a class="button btn-green" href="https://drive.google.com/drive/folders/1hzq6UM7t5qeuRAvvEkLb7sR-Ky32Tt7O?usp=drive_link">DATASET</a>
   </div>
 
-  <a class="btn btn-blue" href="">VIEW EXPERIMENT</a>
-  <a class="btn btn-yellow" href="https://www.kaggle.com/datasets/scolianni/mnistasjpg">DATASET</a>
-</div>
-
-<!--------------------------------------------
-EXPERIMENT 8
---------------------------------------------->
-<div class="card">
-  <h2>Experiment 8</h2>
-  <h3>CNN with Data Augmentation</h3>
-
-  <div class="topics">
-Dataset: Flowers (Image Augmentation)
+  <!-- Experiment 8 -->
+  <div class="card">
+    <h3>Experiment 8: CNN with Data Augmentation</h3>
+    <a class="button btn-blue" href="https://github.com/AbhinavDwivediii/DL_LAB_500121151_ABHINAV_DWIVEDI/blob/main/DL_Exp8.ipynb">VIEW EXPERIMENT</a>
+    <a class="button btn-green" href="https://drive.google.com/drive/folders/1xQwsFCUmMHiIsYeeT-QX0pMUdW_EYrwO?usp=drive_link">DATASET</a>
   </div>
 
-  <a class="btn btn-blue" href="">VIEW EXPERIMENT</a>
-  <a class="btn btn-yellow" href="https://www.kaggle.com/datasets/alxmamaev/flowers-recognition">DATASET</a>
-</div>
-
-<!--------------------------------------------
-EXPERIMENT 10
---------------------------------------------->
-<div class="card">
-  <h2>Experiment 10</h2>
-  <h3>Object Detection (R-CNN)</h3>
-
-  <div class="topics">
-Dataset: Face Mask Detection
+  <!-- Experiment 9 -->
+  <div class="card">
+    <h3>Experiment 9: CNN Object Detection</h3>
+    <a class="button btn-blue" href="https://github.com/AbhinavDwivediii/DL_LAB_500121151_ABHINAV_DWIVEDI/blob/main/DL_Exp9.ipynb">VIEW EXPERIMENT</a>
+    <a class="button btn-green" href="https://drive.google.com/drive/folders/1De4B6xDq_skp8m5gOIUQ5V9gSa_YX20c?usp=drive_link">DATASET</a>
   </div>
-
-  <a class="btn btn-blue" href="">VIEW EXPERIMENT</a>
-  <a class="btn btn-yellow" href="https://www.kaggle.com/datasets/andrewmvd/face-mask-detection">DATASET</a>
-</div>
-
-<!--------------------------------------------
-EXPERIMENT 11
---------------------------------------------->
-<div class="card">
-  <h2>Experiment 11</h2>
-  <h3>Image Segmentation (UNet)</h3>
-
-  <div class="topics">
-Dataset: Carvana Masking Challenge
-  </div>
-
-  <a class="btn btn-blue" href="">VIEW EXPERIMENT</a>
-  <a class="btn btn-yellow" href="https://www.kaggle.com/datasets/abhishek/Carvana-Image-Masking-Challenge">DATASET</a>
-</div>
-
-<!--------------------------------------------
-EXPERIMENT 12
---------------------------------------------->
-<div class="card">
-  <h2>Experiment 12</h2>
-  <h3>Autoencoders</h3>
-
-  <div class="topics">
-Dataset: Fashion-MNIST  
-  </div>
-
-  <a class="btn btn-blue" href="">VIEW EXPERIMENT</a>
-  <a class="btn btn-yellow" href="https://www.kaggle.com/datasets/zalando-research/fashionmnist">DATASET</a>
-</div>
-
-<!--------------------------------------------
-EXPERIMENT 13
---------------------------------------------->
-<div class="card">
-  <h2>Experiment 13</h2>
-  <h3>Variational Autoencoders (VAE)</h3>
-
-  <div class="topics">
-Dataset: MNIST / CelebA  
-  </div>
-
-  <a class="btn btn-blue" href="">VIEW EXPERIMENT</a>
-  <a class="btn btn-yellow" href="https://www.kaggle.com/datasets/oddrationale/mnist-in-csv">DATASET</a>
-</div>
-
-<!--------------------------------------------
-EXPERIMENT 14
---------------------------------------------->
-<div class="card">
-  <h2>Experiment 14</h2>
-  <h3>GAN – Image Generation</h3>
-
-  <div class="topics">
-Dataset: Anime Faces / CelebA  
-  </div>
-
-  <a class="btn btn-blue" href="">VIEW EXPERIMENT</a>
-  <a class="btn btn-yellow" href="https://www.kaggle.com/datasets/splcher/animefacedataset">DATASET</a>
-</div>
-
-</div>
-</div>
-radius:6px;text-decoration:none;margin-left:10px;">DATASET (Plant Diseases — for generative experiments)</a>
-</div>
 
 </div>
