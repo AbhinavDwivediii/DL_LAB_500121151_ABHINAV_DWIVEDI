@@ -146,7 +146,7 @@
 <!-- Table layout (GitHub-safe) -->
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
   <h3>Experiment 1: Comparative Study of Deep Learning Frameworks</h3>
   <a href="https://github.com/AbhinavDwivediii/DL_LAB_500121151_ABHINAV_DWIVEDI/blob/main/DL_Exp1.ipynb"><b>🔗 VIEW EXPERIMENT</b></a><br>
   <b>Dataset:</b> (use synthetic / iris / any small CSV)
