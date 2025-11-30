@@ -154,7 +154,9 @@
 
 
 <h1 align="center">Deep Learning Lab</h1>
-<p align="center">A comprehensive collection of Deep Learning experiments from basics to advanced applications.</p>
+<p align="center">This lab presents a comprehensive collection of Deep Learning experiments, ranging from basic concepts to advanced applications. Using popular frameworks like TensorFlow and PyTorch, students gain hands-on experience in building and training neural networks. Key components such as activation functions (ReLU, Sigmoid), optimizers (SGD, Adam), and loss functions are explored to understand model performance and optimization.
+
+Experiments use Kaggle datasets to demonstrate practical applications like image classification, object detection, and text analysis. Students also learn techniques like CNNs, RNNs, transfer learning, and hyperparameter tuning, along with evaluation metrics including accuracy, precision, recall, and AUC-ROC. This lab provides a solid foundation in both the theory and practical implementation of deep learning models.</p>
 
 <!-- Table layout (GitHub-safe) -->
 <table>
