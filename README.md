@@ -152,7 +152,7 @@
   <b>Dataset:</b> (use synthetic / iris / any small CSV)
 </td>
 
-<td width="33%" valign="top">
+<td width="50%" valign="top">
   <h3>Experiment 2: Building Neural Networks from Scratch</h3>
   <a href="https://github.com/AbhinavDwivediii/DL_LAB_500121151_ABHINAV_DWIVEDI/blob/main/DL_Exp2.ipynb"><b>🔗 VIEW EXPERIMENT</b></a><br>
   <a href="https://drive.google.com/drive/folders/1HJFzCnNx4SdC9UR_LKa7-P2xKUz8Fp06?usp=drive_link"><b>📁 DATASET</b></a>
