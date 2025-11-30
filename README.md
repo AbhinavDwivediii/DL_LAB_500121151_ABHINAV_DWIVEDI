@@ -242,8 +242,8 @@
   <!-- reserved for future use or notes -->
   <h3>Notes</h3>
   <ul>
-    <li>Replace <code>#</code> VIEW links for Exps 10–12 with your notebook URLs when ready.</li>
-    <li>All Drive dataset links you provided are included above.</li>
+    <li><code>#</code></li>
+    <li></li>
   </ul>
 </td>
 </tr>
