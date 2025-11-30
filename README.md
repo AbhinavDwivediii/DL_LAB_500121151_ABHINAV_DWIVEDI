@@ -9,6 +9,7 @@
 ┃ ┗ 📂 images
 
 
+
 ┣ 📂 Exp_2 Build neural network components from ground up without high-level libraries. Implement forward propagation, backpropagation, and training mechanisms.
 
 ┃ ┣ 📓 experiment.ipynb
@@ -16,6 +17,7 @@
 ┃ ┣ 📂 datasets
 
 ┃ ┗ 📂 images
+
 
 
 ┣ 📂 [Exp_3] End-to-end classification pipeline using deep learning frameworks. Includes data normalization, model building, training curves, and confusion matrix analysis.
@@ -27,6 +29,7 @@
 ┃ ┗ 📂 images
 
 
+
 ┣ 📂 Exp_4 Leverage pretrained models (ResNet, EfficientNet, MobileNet) for image classification. Implement both feature extraction and fine-tuning approaches.
 
 ┃ ┣ 📓 experiment.ipynb
@@ -34,6 +37,7 @@
 ┃ ┣ 📂 datasets
 
 ┃ ┗ 📂 images
+
 
 
 ┣ 📂 Exp_5 Deep dive into training mechanisms. Visualize activation functions (Sigmoid, ReLU, Tanh, Softmax) and loss functions. Compare SGD, Momentum, and Adam optimizers.
@@ -45,6 +49,7 @@
 ┃ ┗ 📂 images
 
 
+
 ┣ 📂 Exp_6 Build and train MLP architectures with various configurations. Explore different layer depths, neuron counts, and activation strategies.
 
 ┃ ┣ 📓 experiment.ipynb
@@ -52,6 +57,7 @@
 ┃ ┣ 📂 datasets
 
 ┃ ┗ 📂 images
+
 
 
 ┣ 📂 Exp_7 Implement CNN components from scratch. Visualize learned features through feature maps and understand how convolution and pooling operations work.
@@ -63,6 +69,7 @@
 ┃ ┗ 📂 images
 
 
+
 ┣ 📂 Exp_8 Implement CNN with data augmentation strategies to improve model generalization. Apply various image transformations and analyze their impact on classification accuracy.
 
 ┃ ┣ 📓 experiment.ipynb
@@ -72,6 +79,7 @@
 ┃ ┗ 📂 images
 
 
+
 ┣ 📂 Exp_9 Implement CNN-based object detection to identify and localize objects in images. Build detection pipelines with bounding box regression and classification.
 
 ┃ ┣ 📓 convolutional-neural-network-cnn-tutorial.ipynb
@@ -79,6 +87,7 @@
 ┃ ┣ 📂 test
 
 ┃ ┗ 📂 train
+
 
 
 ┣ 📂 Exp_10 Introduction to object detection using R-CNN approach. Implement region proposal methods and train detection models on Pascal VOC dataset.
@@ -92,11 +101,13 @@
 ┃ ┗ 📄 sample_annotations.png
 
 
+
 ┣ 📂 Exp_11 Introduction to image segmentation and implement UNet model for pixel-level predictions. Learn encoder-decoder architectures for dense prediction tasks.
 
 ┃ ┣ 📓 unet_segmentation.ipynb
 
 ┃ ┗ 📄 best_unet_model.pth
+
 
 
 ┣ 📂 Exp_12 Design standard autoencoder models for image reconstruction and representation learning. Explore latent space representations and dimensionality reduction.
@@ -112,6 +123,7 @@
 ┃ ┣ 📄 reconstruction_results.png
 
 ┃ ┗ 📄 training_loss.png
+
 
 
 ┣ 📂 Exp_13 Implement Variational Autoencoders for learning latent distributions and generating novel images. Analyze class-wise latent space representations.
@@ -131,6 +143,7 @@
 ┃ ┣ 📄 vae_reconstruction.png
 
 ┃ ┗ 📄 vae_training_loss.png
+
 
 
 ┣ 📂 Exp_14 Develop and train GAN models for creating realistic image samples. Compare generative performance with VAEs in terms of visual fidelity and diversity.
