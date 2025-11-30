@@ -1,6 +1,6 @@
 # 📦 Deep-Learning-Experiments
 
-┣ 📂 Exp_1
+┣ 📂 Exp_1 Compare TensorFlow, Keras, and PyTorch by implementing linear regression. Analyze code verbosity, API design patterns, and debugging capabilities across frameworks.
 
 ┃ ┣ 📓 experiment.ipynb
 
