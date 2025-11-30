@@ -368,5 +368,5 @@
 | ![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-1.x-orange) | 1.x  | Machine Learning Tools     |
 
 
-# THANKYOU!
-┣ ABHINAV DWIVEDI
+<p align="center"># THANKYOU!
+<p align="center">ABHINAV DWIVEDI
