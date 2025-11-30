@@ -207,20 +207,7 @@
 
 <tr>
 <td width="33%" valign="top">
-  <h3>Experiment 10: Object Detection with R-CNN
-
-Topics:
-
-├── Region-based CNN (R-CNN)
-
-├── Region Proposal Networks
-
-├── Faster R-CNN Implementation
-
-└── Pascal VOC Dataset
-
-Introduction to object detection using R-CNN approach. Implement region proposal methods and train detection models on Pascal VOC dataset.</h3>
-  
+  <h3>Experiment 10: Object Detection with R-CNN</h3> 
   <a href="[#](https://github.com/AbhinavDwivediii/DL_LAB_500121151_ABHINAV_DWIVEDI/blob/main/DL_Exp10.ipynb)"><b>🔗 VIEW EXPERIMENT</b></a><br>
   <b>📁 DATASET:</b> <a href="[https://www.kaggle.com/datasets/mnassrib/ms-coc](https://drive.google.com/drive/folders/1F7GmB_pEIuSRwljuFUWy4CiMzU1ZQGa1?usp=drive_link)">MS COCO (Kaggle)</a>
 </td>
