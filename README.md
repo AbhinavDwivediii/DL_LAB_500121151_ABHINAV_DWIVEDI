@@ -146,19 +146,19 @@
 <!-- Table layout (GitHub-safe) -->
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="40%" valign="top">
   <h3>Experiment 1: Comparative Study of Deep Learning Frameworks</h3>
   <a href="https://github.com/AbhinavDwivediii/DL_LAB_500121151_ABHINAV_DWIVEDI/blob/main/DL_Exp1.ipynb"><b>🔗 VIEW EXPERIMENT</b></a><br>
   <b>Dataset:</b> (use synthetic / iris / any small CSV)
 </td>
 
-<td width="50%" valign="top">
+<td width="40%" valign="top">
   <h3>Experiment 2: Building Neural Networks from Scratch</h3>
   <a href="https://github.com/AbhinavDwivediii/DL_LAB_500121151_ABHINAV_DWIVEDI/blob/main/DL_Exp2.ipynb"><b>🔗 VIEW EXPERIMENT</b></a><br>
   <a href="https://drive.google.com/drive/folders/1HJFzCnNx4SdC9UR_LKa7-P2xKUz8Fp06?usp=drive_link"><b>📁 DATASET</b></a>
 </td>
 
-<td width="50%" valign="top">
+<td width="40%" valign="top">
   <h3>Experiment 3: Classification with DL Frameworks</h3>
   <a href="https://github.com/AbhinavDwivediii/DL_LAB_500121151_ABHINAV_DWIVEDI/blob/main/DL_Exp3.ipynb"><b>🔗 VIEW EXPERIMENT</b></a><br>
   <a href="https://drive.google.com/drive/folders/118MaTGKLMyaXpPgBYVWlM-KWyYa0DA_b?usp=drive_link"><b>📁 DATASET</b></a>
