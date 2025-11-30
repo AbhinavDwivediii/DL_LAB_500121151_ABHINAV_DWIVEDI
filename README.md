@@ -208,9 +208,87 @@
 
 <div class="container">
 
-  <!-- Experiment 1 -->
   <div class="experiment-card">
     <div class="experiment-title">Experiment 1: Comparative Study of Deep Learning Frameworks</div>
+    <div class="description">Comparison of popular deep learning frameworks focusing on performance, usability, and workflow design.</div>
+    <div class="btn-container">
+      <a href="https://github.com/AbhinavDwivediii/DL_LAB_500121151_ABHINAV_DWIVEDI/blob/main/DL_Exp1.ipynb" class="exp-btn">Open Experiment</a>
+    </div>
+  </div>
+
+  <div class="experiment-card">
+    <div class="experiment-title">Experiment 2: Building Neural Networks from Scratch</div>
+    <div class="description">Implement AND gate neuron, FFNN for XOR/AND, and full MLP architecture from scratch.</div>
+    <div class="btn-container">
+      <a href="https://drive.google.com/drive/folders/1HJFzCnNx4SdC9UR_LKa7-P2xKUz8Fp06?usp=drive_link" class="dataset-btn">Dataset</a>
+      <a href="https://github.com/AbhinavDwivediii/DL_LAB_500121151_ABHINAV_DWIVEDI/blob/main/DL_Exp2.ipynb" class="exp-btn">Open Experiment</a>
+    </div>
+  </div>
+
+  <div class="experiment-card">
+    <div class="experiment-title">Experiment 3: Classification with DL Frameworks</div>
+    <div class="description">MNIST / Fashion-MNIST classification including preprocessing, training, validation, and evaluation.</div>
+    <div class="btn-container">
+      <a href="https://drive.google.com/drive/folders/118MaTGKLMyaXpPgBYVWlM-KWyYa0DA_b?usp=drive_link" class="dataset-btn">Dataset</a>
+      <a href="https://github.com/AbhinavDwivediii/DL_LAB_500121151_ABHINAV_DWIVEDI/blob/main/DL_Exp3.ipynb" class="exp-btn">Open Experiment</a>
+    </div>
+  </div>
+
+  <div class="experiment-card">
+    <div class="experiment-title">Experiment 4: Transfer Learning for Image Classification</div>
+    <div class="description">Feature extraction and fine‑tuning using pretrained CNNs on Cats vs Dogs / CIFAR‑10 datasets.</div>
+    <div class="btn-container">
+      <a href="https://drive.google.com/drive/folders/1nuBfkQNFDtnJE9527N61rzPJR_hPSxAL?usp=drive_link" class="dataset-btn">Dataset</a>
+      <a href="https://github.com/AbhinavDwivediii/DL_LAB_500121151_ABHINAV_DWIVEDI/blob/main/DL_Exp4.ipynb" class="exp-btn">Open Experiment</a>
+    </div>
+  </div>
+
+  <div class="experiment-card">
+    <div class="experiment-title">Experiment 5: Training Deep Networks</div>
+    <div class="description">Activation & loss visualization, backpropagation, and optimizer comparison (SGD, Momentum, Adam).</div>
+    <div class="btn-container">
+      <a href="https://drive.google.com/drive/folders/1qqk3nwOxXuC7JZLGj-FkJHQOUcg3JhEn?usp=drive_link" class="dataset-btn">Dataset</a>
+      <a href="https://github.com/AbhinavDwivediii/DL_LAB_500121151_ABHINAV_DWIVEDI/blob/main/DL_Exp5.ipynb" class="exp-btn">Open Experiment</a>
+    </div>
+  </div>
+
+  <div class="experiment-card">
+    <div class="experiment-title">Experiment 6: Implementation of MLP</div>
+    <div class="description">Design, train, and evaluate a multilayer perceptron model for classification tasks.</div>
+    <div class="btn-container">
+      <a href="https://drive.google.com/drive/folders/1wPi0ayzv74nrS3TQgt9ZD37-ByxF8kfz?usp=drive_link" class="dataset-btn">Dataset</a>
+      <a href="https://github.com/AbhinavDwivediii/DL_LAB_500121151_ABHINAV_DWIVEDI/blob/main/DL_Exp6.ipynb" class="exp-btn">Open Experiment</a>
+    </div>
+  </div>
+
+  <div class="experiment-card">
+    <div class="experiment-title">Experiment 7: Implementing CNN</div>
+    <div class="description">Convolution, pooling operations, and visualization of feature maps.</div>
+    <div class="btn-container">
+      <a href="https://drive.google.com/drive/folders/1hzq6UM7t5qeuRAvvEkLb7sR-Ky32Tt7O?usp=drive_link" class="dataset-btn">Dataset</a>
+      <a href="https://github.com/AbhinavDwivediii/DL_LAB_500121151_ABHINAV_DWIVEDI/blob/main/DL_Exp7.ipynb" class="exp-btn">Open Experiment</a>
+    </div>
+  </div>
+
+  <div class="experiment-card">
+    <div class="experiment-title">Experiment 8: CNN with Data Augmentation</div>
+    <div class="description">Image classification using CNN enhanced with augmentation strategies.</div>
+    <div class="btn-container">
+      <a href="https://drive.google.com/drive/folders/1xQwsFCUmMHiIsYeeT-QX0pMUdW_EYrwO?usp=drive_link" class="dataset-btn">Dataset</a>
+      <a href="https://github.com/AbhinavDwivediii/DL_LAB_500121151_ABHINAV_DWIVEDI/blob/main/DL_Exp8.ipynb" class="exp-btn">Open Experiment</a>
+    </div>
+  </div>
+
+  <div class="experiment-card">
+    <div class="experiment-title">Experiment 9: CNN Object Detection</div>
+    <div class="description">CNN‑based object detection including bounding box prediction, classification, and evaluation.</div>
+    <div class="btn-container">
+      <a href="https://drive.google.com/drive/folders/1De4B6xDq_skp8m5gOIUQ5V9gSa_YX20c?usp=drive_link" class="dataset-btn">Dataset</a>
+      <a href="https://github.com/AbhinavDwivediii/DL_LAB_500121151_ABHINAV_DWIVEDI/blob/main/DL_Exp9.ipynb" class="exp-btn">Open Experiment</a>
+    </div>
+  </div>
+
+</div>
     <div class="description">Comparison of popular DL frameworks focusing on performance, usability, and workflow differences.</div>
     <div class="btn-container">
       <a href="https://github.com/AbhinavDwivediii/DL_LAB_500121151_ABHINAV_DWIVEDI/blob/main/DL_Exp1.ipynb" class="exp-btn">Open Experiment</a>
@@ -422,9 +500,93 @@
       <a href="https://drive.google.com/drive/folders/1eaKCYKqI8ZzTxTHHxi5iDvrVUvgS6tze?usp=drive_link" class="dataset-btn">Dataset</a>
       <a href="https://github.com/AbhinavDwivediii/DL_LAB_500121151_ABHINAV_DWIVEDI/blob/main/DL_Exp14.ipynb" class="exp-btn">Open Experiment</a>
     </div>
+    <div class="experiment-card">
+    <div class="experiment-title">Experiment 10</div>
+    <div class="description">Introduction to Object Detection and basic implementation using the R-CNN approach.</div>
+    <div class="btn-container">
+      <a href="#" class="dataset-btn">Dataset</a>
+      <a href="https://github.com/AbhinavDwivediii/DL_LAB_500121151_ABHINAV_DWIVEDI/blob/main/DL_Exp10.ipynb" class="exp-btn">Open Experiment</a>
+    </div>
   </div>
 
+  <div class="experiment-card">
+    <div class="experiment-title">Experiment 11</div>
+    <div class="description">Perform Image Segmentation using the UNet model with encoder–decoder architecture.</div>
+    <div class="btn-container">
+      <a href="https://www.kaggle.com/api/v1/datasets/download/pushkar007/vaihingendataann?dataset_version_number=1" class="dataset-btn">Dataset</a>
+      <a href="https://github.com/AbhinavDwivediii/DL_LAB_500121151_ABHINAV_DWIVEDI/blob/main/DL_Exp11.ipynb" class="exp-btn">Open Experiment</a>
+    </div>
+  </div>
+
+  <div class="experiment-card">
+    <div class="experiment-title">Experiment 12</div>
+    <div class="description">Image Reconstruction and Feature Compression using Autoencoders.</div>
+    <div class="btn-container">
+      <a href="https://drive.google.com/drive/folders/10iflWSc4i78Z2SDtdpkwN4Ab1XUJrvHf?usp=drive_link" class="dataset-btn">Dataset</a>
+      <a href="https://github.com/AbhinavDwivediii/DL_LAB_500121151_ABHINAV_DWIVEDI/blob/main/DL_Exp12.ipynb" class="exp-btn">Open Experiment</a>
+    </div>
+  </div>
+
+  <div class="experiment-card">
+    <div class="experiment-title">Experiment 13</div>
+    <div class="description">Probabilistic Image Generation using Variational Autoencoders (VAEs).</div>
+    <div class="btn-container">
+      <a href="https://drive.google.com/drive/folders/1aVWVPN9fC18fc3aM9JjRFOCLH90MLcSJ?usp=drive_link" class="dataset-btn">Dataset</a>
+      <a href="https://github.com/AbhinavDwivediii/DL_LAB_500121151_ABHINAV_DWIVEDI/blob/main/DL_Exp13.ipynb" class="exp-btn">Open Experiment</a>
+    </div>
+  </div>
+
+  <div class="experiment-card">
+    <div class="experiment-title">Experiment 14</div>
+    <div class="description">Synthetic Image Generation using Generative Adversarial Networks (GANs).</div>
+    <div class="btn-container">
+      <a href="https://drive.google.com/drive/folders/1eaKCYKqI8ZzTxTHHxi5iDvrVUvgS6tze?usp=drive_link" class="dataset-btn">Dataset</a>
+      <a href="https://github.com/AbhinavDwivediii/DL_LAB_500121151_ABHINAV_DWIVEDI/blob/main/DL_Exp14.ipynb" class="exp-btn">Open Experiment</a>
+    </div>
+  </div>
+
+<div class="experiment-card">
+<div class="experiment-title">Experiment 11</div>
+<div class="description">Perform Image Segmentation using the UNet model with encoder–decoder architecture.</div>
+<div class="btn-container">
+<a href="https://www.kaggle.com/api/v1/datasets/download/pushkar007/vaihingendataann?dataset_version_number=1" class="dataset-btn">Dataset</a>
+<a href="https://github.com/AbhinavDwivediii/DL_LAB_500121151_ABHINAV_DWIVEDI/blob/main/DL_Exp11.ipynb" class="exp-btn">Open Experiment</a>
+</div>
 </div>
 
+
+<div class="experiment-card">
+<div class="experiment-title">Experiment 12</div>
+<div class="description">Image Reconstruction and Feature Compression using Autoencoders.</div>
+<div class="btn-container">
+<a href="https://drive.google.com/drive/folders/10iflWSc4i78Z2SDtdpkwN4Ab1XUJrvHf?usp=drive_link" class="dataset-btn">Dataset</a>
+<a href="https://github.com/AbhinavDwivediii/DL_LAB_500121151_ABHINAV_DWIVEDI/blob/main/DL_Exp12.ipynb" class="exp-btn">Open Experiment</a>
+</div>
+</div>
+
+
+<div class="experiment-card">
+<div class="experiment-title">Experiment 13</div>
+<div class="description">Probabilistic Image Generation using Variational Autoencoders (VAEs).</div>
+<div class="btn-container">
+<a href="https://drive.google.com/drive/folders/1aVWVPN9fC18fc3aM9JjRFOCLH90MLcSJ?usp=drive_link" class="dataset-btn">Dataset</a>
+<a href="https://github.com/AbhinavDwivediii/DL_LAB_500121151_ABHINAV_DWIVEDI/blob/main/DL_Exp13.ipynb" class="exp-btn">Open Experiment</a>
+</div>
+</div>
+
+
+<div class="experiment-card">
+<div class="experiment-title">Experiment 14</div>
+<div class="description">Synthetic Image Generation using Generative Adversarial Networks (GANs).</div>
+<div class="btn-container">
+<a href="https://drive.google.com/drive/folders/1eaKCYKqI8ZzTxTHHxi5iDvrVUvgS6tze?usp=drive_link" class="dataset-btn">Dataset</a>
+<a href="https://github.com/AbhinavDwivediii/DL_LAB_500121151_ABHINAV_DWIVEDI/blob/main/DL_Exp14.ipynb" class="exp-btn">Open Experiment</a>
+</div>
+</div>
+
+
+</div>
+</body>
+</html>
 </body>
 </html>
